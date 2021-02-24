@@ -1,6 +1,6 @@
-petNames = ['Darcy', 'Jack', 'Jerry', 'Marty', 'Vito', 'Vinny', 'Riley', 'Saddie', 'Marge', 'Sam']
+let petNames = ['Darcy', 'Jack', 'Jerry', 'Marty', 'Vito', 'Vinny', 'Riley', 'Saddie', 'Marge', 'Sam']
 
-withSal = petNames.push('Sal')
+let withSal = petNames.push('Sal')
 
 petNames.push('Sal')
 
